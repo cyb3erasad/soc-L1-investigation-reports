@@ -24,6 +24,7 @@ This repository is part of my path toward becoming a Junior SOC Analyst. The goa
 | Case | Title | Type | Verdict | Disposition |
 |------|-------|------|---------|-------------|
 | [001](phishing-investigations/case-001-phishing-alert.md) | Phishing Alert and Malicious Attachment Investigation | Phishing / Malware Triage | True Positive | Escalated to L2 |
+| [002](phishing-investigations/case-002-phishing-analysis-lab.md) | Phishing Email Analysis with Header Review and Sandbox Detonation | Phishing / Malware Triage | True Positive | Block and remove recommended |
 
 ## How I Investigate
 
